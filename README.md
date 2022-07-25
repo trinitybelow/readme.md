@@ -10,6 +10,6 @@
 3. JavasCript 
 
 ~~~
-fundamentos de ptogramacion 
+fundamentos de programacion 
 ~~~
 
